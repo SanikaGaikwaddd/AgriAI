@@ -1,0 +1,21 @@
+# secrets
+.env
+*.env
+!.env.example
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+dist/
+
+# AI service
+ai_services/chroma_db/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

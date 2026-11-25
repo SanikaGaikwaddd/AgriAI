@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Agriculture — Crop Disease Detection
 
 A runnable full-stack starter project with:
@@ -76,3 +77,7 @@ Smart_Agriculture_Crop_Disease/
 │   └── vite.config.js
 └── README.md
 ```
+=======
+# AgriAI
+AI-Powered Crop Disease Detection and Advisory System
+>>>>>>> 495eb11e1415fcebd3ae3b39e2fdc5031f10ab1b
